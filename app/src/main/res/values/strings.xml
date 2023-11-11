@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">proyectofinal</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_login_actitity">LoginActitity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="title_activity_prueba">pruebaActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_mascotas">MascotasActivity</string>
+    <string name="title_activity_carro_compras">CarroComprasActivity</string>
+    <string name="title_activity_carrito">CarritoActivity</string>
+    <string name="title_activity_maiscotas">MaiscotasActivity</string>
+</resources>
