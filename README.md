@@ -1,4 +1,4 @@
-# Proyectofinalprogra2
+# Proyectofinalprogra2, GRUPO: LESTHER ZACARIAS, LESLIE JIMENEZ, tiene la opcion de buscar productos jaja
 [![Whats-App-Image-2023-11-11-at-8-46-22-PM.jpg](https://i.postimg.cc/9f1J4ShC/Whats-App-Image-2023-11-11-at-8-46-22-PM.jpg)](https://postimg.cc/5HYwTsyR)
 [![Whats-App-Image-2023-11-11-at-8-46-22-PM-1.jpg](https://i.postimg.cc/Sxfwrght/Whats-App-Image-2023-11-11-at-8-46-22-PM-1.jpg)](https://postimg.cc/rDznyCzS)
 [![Whats-App-Image-2023-11-11-at-8-46-22-PM-2.jpg](https://i.postimg.cc/7ZwRfS21/Whats-App-Image-2023-11-11-at-8-46-22-PM-2.jpg)](https://postimg.cc/jL3c1wvC)
